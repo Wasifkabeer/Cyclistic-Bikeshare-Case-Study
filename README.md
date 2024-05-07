@@ -14,10 +14,10 @@ likely to ride for leisure, but about 30% use the bikes to commute to work each 
 
 ## Ask 
 
-There is only one key question we need to ask ourselves during this phase of the analysis; How do annual members and casual riders use Cyclistic bikes differently? 
+There is only one key question I was assigned to answer during this phase of the analysis; How do annual members and casual riders use Cyclistic bikes differently? 
 
 ## Prepare 
 
 ### Data Source 
 
-I was able to obtain trip data from the year 2023 by downloading 12 files containing trip data from each month in 2023 in CSV format from [Divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. It should also be noted that these datasets contain public data that can be used to explore how different customer types are using the Cyclsitic service. Due to data privacy, we are unable to use any personal information about any rider. This would mean we cannot connect pass purchases to credit card numbers in order to determine if casual riders live within the local area or if they purchased multiple single passes. 
+I was able to obtain trip data from the year 2023 by downloading 12 files containing trip data from each month in 2023 in CSV format from [Divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. It should also be noted that these datasets contain public data that can be used to explore how different customer types are using the Cyclsitic service. Due to data privacy, I was unable to use any personal information about any rider. This would mean I cannot connect pass purchases to credit card numbers in order to determine if casual riders live within the local area or if they purchased multiple single passes. 
