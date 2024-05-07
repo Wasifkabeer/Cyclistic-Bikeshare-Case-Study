@@ -3,7 +3,7 @@
 ### Introduction 
 I will be analyzing a fictional compnay called Cyclistic, a bike sharing company from Chicago, in order to answer some business questions. In particular, the company has requested me to determine the key differences between casual bike riders versus member riders in order to increase the purchase of memberships among said casual riders. The director of marketing believes that by maximizing the number of annual memberships will lead to higher profit margins for the company. 
 
-# More About Cyclistic 
+### More About Cyclistic 
 
 Cyclistic is a bike-share program that features more than 5,800 bicycles and 600
 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand
