@@ -20,4 +20,4 @@ There is only one key question we need to ask ourselves during this phase of the
 
 ### Data Source 
 
-I was able to obtain trip data from the year 2023 by downloading 12 files containing trip data from each month in 2023 in csv format from https://divvy-tripdata.s3.amazonaws.com/index.html. It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. 
+I was able to obtain trip data from the year 2023 by downloading 12 files containing trip data from each month in 2023 in CSV format from [Divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. 
