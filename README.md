@@ -16,4 +16,8 @@ likely to ride for leisure, but about 30% use the bikes to commute to work each 
 
 There is only one key question we need to ask ourselves during this phase of the analysis; How do annual members and casual riders use Cyclisitc bikes differently? 
 
+## Prepare 
 
+### Data Source 
+
+I was able to obtain trip data from the year 2023 by downloading 12 files containing trip data from each month in 2023 in csv format from https://divvy-tripdata.s3.amazonaws.com/index.html. It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. 
