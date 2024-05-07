@@ -14,7 +14,7 @@ likely to ride for leisure, but about 30% use the bikes to commute to work each 
 
 ## Ask 
 
-There is only one key question we need to ask ourselves during this phase of the analysis; How do annual members and casual riders use Cyclisitc bikes differently? 
+There is only one key question we need to ask ourselves during this phase of the analysis; How do annual members and casual riders use Cyclistic bikes differently? 
 
 ## Prepare 
 
