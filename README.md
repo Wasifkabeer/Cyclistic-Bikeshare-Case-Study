@@ -35,10 +35,11 @@ After removing rows containing null data, I created a table with additional colu
 With the final table created, I was able to analyze the data to determine any existing trends and patterns within the dataset. After running multiple queries on the dataset, I was able to find the following; 
 
 * There were more total rides overall by members as opposed to casual riders. However, casual riders on average are completing longer trips as opposed to their member counterparts 
-* According to the data, members are more active during the week while casual riders complete more rides during the weekend in comparison to weekdays. 
-* Both members and casual riders increase their riding frequency during the summer months 
+* Members are more active during the week while casual riders complete more rides during the weekend. In addition, casual riders are completing longer rides during the weekend on average. 
+* Both members and casual riders increase their riding frequency during the summer months, but casual riders increase their average ride length during this time. 
+* Rides completed by members peak during commuting hours while casual riders have a more consistent riding pattern through out the day
 
-This would indicate that on average, members complete more frequent but shorter rides as opposed to casual riders who ride less frequently but ride for a longer period of time. 
+This would indicate that on average, members complete more frequent but shorter rides as opposed to casual riders who ride less frequently but ride for a longer period of time. Based on their riding patterns throughout the year, we find casual riders are more active during weekends and during the summer months, as well as completing longer rides during these times. In contrast, members also increase their riding frequency overall during the summer, but are less active during the weekend. Furthermore, their riding frequency is much higher during commuting hours while keeping a consistent ride length throughout. These findings lead me to believe that member riders are using the Cyclistic service for commuting and convenience purposes, while casual riders are using the service for leisure. 
 
 
 
