@@ -34,8 +34,9 @@ After removing rows containing null data, I created a table with additional colu
 
 With the final table created, I was able to analyze the data to determine any existing trends and patterns within the dataset. After running multiple queries on the dataset, I was able to find the following; 
 
-* There were more total rides overall by members as opposed to casual riders
-* However, casual riders on average are completing longer trips as opposed to members
+* There were more total rides overall by members as opposed to casual riders. However, casual riders on average are completing longer trips as opposed to their member counterparts 
+* According to the data, members are more active during the week while casual riders complete more rides during the weekend in comparison to weekdays. 
+* Both members and casual riders increase their riding frequency during the summer months 
 
 This would indicate that on average, members complete more frequent but shorter rides as opposed to casual riders who ride less frequently but ride for a longer period of time. 
 
