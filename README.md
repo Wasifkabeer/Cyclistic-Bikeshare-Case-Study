@@ -30,3 +30,15 @@ Following the creation of the combined_data table, I used another [query](https:
 
 After removing rows containing null data, I created a table with additional columns including a day of the week, a month of the year and trip length in minutes. After creating these columns, I removed rows that represented trips in which were shorter then one minute in length as well as trips that were longer then 24 hours as these trips were most likely erroneous. Therefore, approximately another 87,651 rows of data was removed from this [query](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Clean_trip_info_query.sql). As a result, the final table "clean_trip_info" was created containing all rides for the year excluding any rows that contained missing or duplicate data, as well as any outliers. This table also contains additional columns such as day of the week, month of the year and trip length. There was a total of 4,244,056 rows of data in this table. 
 
+## Analyze 
+
+With the final table created, I was able to analyze the data to determine any existing trends and patterns within the dataset. After running multiple queries on the dataset, I was able to find the following; 
+
+* There were more total rides overall by members as opposed to casual riders
+* However, casual riders on average are completing longer trips as opposed to members
+
+This would indicate that on average, members complete more frequent but shorter rides as opposed to casual riders who ride less frequently but ride for a longer period of time. 
+
+
+
+
