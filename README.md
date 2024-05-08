@@ -26,7 +26,7 @@ It should be noted as Cyclistic is a fictional company, however, for the purpose
 
 For the process phase as well as every subsequent phase, I used BigQuery Studio as there was nearly 5 million rows of uncleaned data that simply cannot be processed by applications like Google Sheets. Using BigQuery, I was able to combine the 12 datasets into one larger dataset labelled [combined_data](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Combined_data_query.sql) that contained information about every ride provided by Cyclistic in the year 2023.  
 
-Following the creation of the combined_data table, I used another [query]( to create another table titled clean_trip_data in which excluded rows containing null data. Before I created this table, I completed a number of exploratory queries on this table to determine which rows needed to be excluded from the final analysis. These queries can be found [here](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Data_cleaning_exploration.sql). 
+Following the creation of the combined_data table, I used another [query](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Clean_trip_data_query.sql) to create another table titled clean_trip_data in which excluded rows containing null data. Before I created this table, I completed a number of exploratory queries on this table to determine which rows needed to be excluded from the final analysis. These queries can be found [here](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Data_cleaning_exploration.sql). 
 
 
 
