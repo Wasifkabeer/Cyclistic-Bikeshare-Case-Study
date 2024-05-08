@@ -50,8 +50,9 @@ In order to visualize key findings, I used Tableau to illustrate trends that wil
 
 The visual above shows that the total amount of rides completed was much higher among members, yet the average trip length was higher among casual riders. This shows members tend to have a higher trip frequency while casual riders are completing trips longer in length. 
 
+![Sheet 3](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/b1dc300c-cacf-48e1-bfec-dfba0b5dcd6c)
 
-
+The visual above indicates the different bike type preferences among riders. According to the data, the Classic bike is the most popular rideable type in both member and casual rider groups. It should be noted that the docked bike was exclusively used by casual riders. 
 
 
 
