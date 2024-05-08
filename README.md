@@ -43,7 +43,7 @@ This would indicate that on average, members complete more frequent but shorter 
 
 ## Share 
 
-In order to visualize key findings, I used Tableau to illustrate trends that will help us differentiate between member and casual riders. 
+In order to visualize key findings, I used Tableau to illustrate trends that will help us differentiate the characteristics between member and casual riders. 
 
 
 ![Dashboard 1](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/d220eae4-2313-4e2a-83ac-a602031f5770)
@@ -56,10 +56,11 @@ The visual above indicates the bike type distribution among riders. According to
 
 ![Dashboard 2](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/aa82f20f-0df0-4096-90e4-2fc6789aabe9)
 
-This particular visual above showcases the total amount rides distributed across day of the week, month of the year and hour of the day. It is apparent that casual riders are taking more trips during the weekend while the opposite is true for members. We can also see that the number of trips are much higher during the warmer months of the year for both casual riders as well as members. If we examine the visual in which showcases the distribution by the hour, we can see member usage peaks during commuting hours while the usage of casual riders remain fairly consistent. 
+This particular visual above showcases the total amount rides distributed across day of the week, month of the year and hour of the day. It is apparent that casual riders are taking more trips during the weekend while the opposite is true for members. We can also see that the number of trips are much higher during the warmer months of the year for both casual riders as well as members. If we examine the visual in which showcases the distribution by the hour, we can see member usage peaks during commuting hours while the usage of casual riders remains fairly consistent. 
 
+![Dashboard 3](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/3eb37d19-806b-4ccc-a975-b733cd8c0671)
 
-
+This visual is similar to previous one except this one examines the average trip length in minutes. We can see that the average trip length is consistently higher among casual riders then members across every time scale distribution. However, we can see longer trip lengths taken by casual riders during the warmer months of the year, supporting the notion in which casual riders are mainly using the service for leisure purposes. 
 
 
 
