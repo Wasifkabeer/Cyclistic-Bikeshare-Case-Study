@@ -43,10 +43,12 @@ This would indicate that on average, members complete more frequent but shorter 
 
 ## Share 
 
-In order to visualize key findings, I used Tableau to illustrate trends that will help us differentiate member and casual riders. 
+In order to visualize key findings, I used Tableau to illustrate trends that will help us differentiate between member and casual riders. 
 
 
 ![Dashboard 1](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/d220eae4-2313-4e2a-83ac-a602031f5770)
+
+The visual above shows that the total amount of rides completed was much higher among members, yet the average trip length was higher among casual riders. This shows members tend to have a higher trip frequency while casual riders are completing trips longer in length. 
 
 
 
