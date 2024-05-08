@@ -52,10 +52,11 @@ The visual above shows that the total amount of rides completed was much higher 
 
 ![Sheet 3](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/b1dc300c-cacf-48e1-bfec-dfba0b5dcd6c)
 
-The visual above indicates the different bike type preferences among riders. According to the data, the Classic bike is the most popular rideable type in both member and casual rider groups. It should be noted that the docked bike was exclusively used by casual riders. 
+The visual above indicates the bike type distribution among riders. According to the data, the Classic bike is the most popular rideable type in both member and casual rider groups. It should be noted that the docked bike was exclusively used by casual riders. 
 
+![Dashboard 2](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/aa82f20f-0df0-4096-90e4-2fc6789aabe9)
 
-
+This particular visual above showcases the total amount rides distributed across day of the week, month of the year and hour of the day. It is apparent that casual riders are taking more trips during the weekend while the opposite is true for members. We can also see that the number of trips are much higher during the warmer months of the year for both casual riders as well as members. If we examine the visual in which showcases the distribution by the hour, we can see member usage peaks during commuting hours while the usage of casual riders remain fairly consistent. 
 
 
 
