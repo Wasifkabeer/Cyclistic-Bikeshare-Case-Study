@@ -32,7 +32,7 @@ After removing rows containing null data, I created a table with additional colu
 
 ## Analyze 
 
-With the final table created, I was able to analyze the data to determine any existing trends and patterns within the dataset. After running multiple queries on the dataset, I was able to find the following; 
+With the final table created, I was able to analyze the data to determine any existing trends and patterns within the dataset. After running multiple [queries](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Data_analysis.sql) on the dataset, I was able to find the following; 
 
 * There were more total rides overall by members as opposed to casual riders. However, casual riders on average are completing longer trips as opposed to their member counterparts 
 * Members are more active during the week while casual riders complete more rides during the weekend. In addition, casual riders are completing longer rides during the weekend on average. 
