@@ -24,7 +24,7 @@ It should be noted as Cyclistic is a fictional company, however, for the purpose
 
 ## Process 
 
-For the process phase as well as every subsequent phase, I used BigQuery Studio as there was nearly 5 million rows of uncleaned data that simply cannot be processed by applications like Google Sheets. Using BigQuery, I was able to combine the 12 datasets into one larger dataset labelled combined_data that contained information about every ride provided by Cyclistic in the year 2023.  
+For the process phase as well as every subsequent phase, I used BigQuery Studio as there was nearly 5 million rows of uncleaned data that simply cannot be processed by applications like Google Sheets. Using BigQuery, I was able to combine the 12 datasets into one larger dataset labelled [combined_data](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Combined_data_query.sql) that contained information about every ride provided by Cyclistic in the year 2023.  
 
 
 
