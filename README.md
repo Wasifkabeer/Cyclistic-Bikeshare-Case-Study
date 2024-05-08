@@ -43,7 +43,7 @@ This would indicate that on average, members complete more frequent but shorter 
 
 ## Share 
 
-In order to visualize key findings, I used Tableau to illustrate trends that will help us differentiate the characteristics between member and casual riders. 
+In order to visualize key findings, I used Tableau to illustrate trends that will help us visually differentiate the characteristics between member and casual riders. 
 
 
 ![Dashboard 1](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/d220eae4-2313-4e2a-83ac-a602031f5770)
