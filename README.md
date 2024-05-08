@@ -48,7 +48,7 @@ In order to visualize key findings, I used Tableau to illustrate trends that wil
 
 ![Dashboard 1](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/d220eae4-2313-4e2a-83ac-a602031f5770)
 
-The visual above shows that the total amount of rides completed was much higher among members, yet the average trip length was higher among casual riders. This shows members tend to have a higher trip frequency while casual riders are completing trips longer in length. 
+The visual above shows that the total amount of rides completed was much higher among members, yet the average trip length was higher among casual riders. This shows members tend to have a higher trip frequency while casual riders are completing longer trips. 
 
 ![Sheet 3](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/b1dc300c-cacf-48e1-bfec-dfba0b5dcd6c)
 
