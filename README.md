@@ -28,5 +28,5 @@ For the process phase as well as every subsequent phase, I used BigQuery Studio 
 
 Following the creation of the combined_data table, I used another [query](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Clean_trip_data_query.sql) to create another table titled clean_trip_data in which excluded rows containing null data. Before I created this table, I completed a number of exploratory queries on this table to determine which rows needed to be excluded from the final analysis. These queries can be found [here](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/blob/main/Data_cleaning_exploration.sql). 
 
-
+After removing rows containing null data, I created a table with additional columns including a day of the week, a month of the year and trip length in minutes. After creating these columns, I removed rows that represented trips in which were shorter then one minute in length as well as trips that were longer then 24 hours as these trips were most likely erroneous. 
 
