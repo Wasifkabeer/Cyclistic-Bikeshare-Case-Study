@@ -20,7 +20,7 @@ There is only one key question I was assigned to answer during this phase of the
 
 For my data source, I was able to obtain trip data from the year 2023 by downloading 12 datasets containing trip data for each month from [Divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). Each dataset contained various information about each single trip during the month, including; ride id, bike type, start and end stations, start and end latitude as well as longtitude, times started at and ended at, and membership type. 
 
-It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. It should also be noted that these datasets contain public data that can be used to explore how different customer types are using the Cyclsitic service. Due to data privacy, I was unable to use any personal information about any rider. This would mean I cannot connect pass purchases to credit card numbers in order to determine if casual riders live within the local area or if they purchased multiple single passes. 
+It should be noted as Cyclistic is a fictional company, however, for the purposes of this case study, these datasets were deemed appropriate and was made available by Motivate International Inc. It should also be noted that these datasets contain public data that can be used to explore how different customer types are using the Cyclistic service. Due to data privacy, I was unable to use any personal information about any rider. This would mean I cannot connect pass purchases to credit card numbers in order to determine if casual riders live within the local area or if they purchased multiple single passes. 
 
 ## Process 
 
