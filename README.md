@@ -41,6 +41,18 @@ With the final table created, I was able to analyze the data to determine any ex
 
 This would indicate that on average, members complete more frequent but shorter rides as opposed to casual riders, who ride less frequently but ride for a longer period of time. Based on their riding patterns throughout the year, we find casual riders are more active during weekends and during the summer months, as well as completing longer rides during these times. In contrast, members also increase their riding frequency overall during the summer, but are less active during the weekend. Furthermore, their riding frequency is much higher during commuting hours while keeping a consistent ride length throughout. These findings lead me to believe that member riders are using the Cyclistic service for commuting and convenience purposes, while casual riders are using the service for leisure. 
 
+## Share 
+
+![Dashboard 1](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/d220eae4-2313-4e2a-83ac-a602031f5770)
+
+
+
+
+
+
+
+
+
 
 
 
