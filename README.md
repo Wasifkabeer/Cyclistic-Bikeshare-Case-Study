@@ -60,7 +60,7 @@ This particular visual above showcases the total amount rides distributed across
 
 ![Dashboard 3](https://github.com/Wasifkabeer/Cyclistic-Bikeshare-Case-Study/assets/169206006/3eb37d19-806b-4ccc-a975-b733cd8c0671)
 
-This visual is similar to previous one except this one examines the average trip length in minutes. We can see that the average trip length is consistently higher among casual riders then members across every time scale distribution. However, we can see longer trip lengths taken by casual riders during the warmer months of the year, supporting the notion in which casual riders are mainly using the service for leisure purposes. 
+This visual is similar to previous one except this one examines the average trip length in minutes. We can see that the average trip length is consistently higher among casual riders then members across every time scale distribution. However, we can see longer trip lengths taken by casual riders during the warmer months of the year as well as on weekends, supporting the notion in which casual riders are mainly using the service for leisure purposes. 
 
 ## Act 
 
