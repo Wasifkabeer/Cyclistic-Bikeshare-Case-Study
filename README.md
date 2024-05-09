@@ -62,5 +62,13 @@ This particular visual above showcases the total amount rides distributed across
 
 This visual is similar to previous one except this one examines the average trip length in minutes. We can see that the average trip length is consistently higher among casual riders then members across every time scale distribution. However, we can see longer trip lengths taken by casual riders during the warmer months of the year, supporting the notion in which casual riders are mainly using the service for leisure purposes. 
 
+## Act 
+
+After analysis, I was able to determine that member riders and casual riders are vastly different from one another, as each type of rider is using the Cyclistic service for a different purpose. Members use the service for convenience as they are more active during weekedays and particuarly during commuting hours. The opposite can be said about casual riders, as they are completing much longer rides throughout the day as well as much more active during weekends and summer months. Knowing this, this is the following recommendations I have for Cyclistic; 
+
+* Converting casual riders to full time members will likely be difficult due to the vastly different riding patterns, however, Cyclistic can consider offering either a monthly or seasonal membership to these casual riders who prefer to ride during the warmer months of the year.
+* In addition, Cyclistic can also offer a weekend pass that allows riders to use the service all year long but only on Saturday and Sundays. Offering this will help convert casual riders who ride for leisure purposes on the weekend.  
+
+
 
 
